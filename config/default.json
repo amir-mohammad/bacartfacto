@@ -1,0 +1,4 @@
+{
+    "MongoURI":"mongodb://artfacto_user:m9pCtP42d8@artfactoryedu.com:27017/artfacto_db",
+    "secretkey":"artfactory is the best"
+}
